@@ -4,7 +4,7 @@ object Oops {
 
     var personOne = new Person("test", 21)
     var personTwo = new Person("testUser", 21)
-    //  println(p1.name)
+    
     personOne.check(personTwo)
 
 
